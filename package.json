@@ -1,0 +1,22 @@
+{
+  "name": "react-native-video-android",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanwyf/react-native-video-android.git"
+  },
+  "version": "0.1.0",
+  "description": "video player",
+  "author": "Yuanfang Wang <19593300@qq.com>",
+  "nativePackage": true,
+  "license": "MIT",
+  "homepage": "https://github.com/alanwyf/react-native-video-android",
+  "keywords": [
+    "react-native",
+    "react",
+    "video",
+    "android",
+    "player"
+  ],
+  "dependencies": {
+  }
+}
